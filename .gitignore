@@ -4,11 +4,18 @@ backend/node_modules
 # Frontend dependencies
 frontend/node_modules
 
-# Environment variables (keep private!)
+# Environment variables
 backend/.env
 
-# ChromaDB data folder
+# ChromaDB data
 backend/chroma
+chroma
+
+# Visual Studio files
+.vs
+
+# Stray files
+backend/rmdir
 
 # OS files
 .DS_Store
