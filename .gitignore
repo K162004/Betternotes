@@ -1,0 +1,18 @@
+# Backend dependencies
+backend/node_modules
+
+# Frontend dependencies
+frontend/node_modules
+
+# Environment variables (keep private!)
+backend/.env
+
+# ChromaDB data folder
+backend/chroma
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
